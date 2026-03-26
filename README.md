@@ -2,44 +2,40 @@
 Portfolio showcasing data analytics, finance, and business projects by Erica Hsieh
 # Hi, I'm Erica (Ya-Cheng Hsieh)
 
-🎓 MS in Management & Analytics, NYU SPS  
-📊 Background in Finance & Data Analytics  
-📍 Based in New York  
+- MS in Management & Analytics, NYU SPS  
+- Background in Finance & Data Analytics  
+- Based in New York  
 
 I am passionate about leveraging data to drive business decisions by combining financial knowledge with analytical skills. I am currently seeking internship opportunities in data analytics, strategy, and finance.
 
----
 
-## 🔧 Skills
+
+## Skills
 - Data Analysis: SQL, Excel, Python, SPSS  
 - Visualization: Tableau, Power BI  
 - Database: MySQL, Oracle Data Modeler  
 - Business: Financial Analysis, Risk Management  
 
----
 
-## 📂 Featured Projects
+## Featured Projects
 
-### 📊 New York Housing Market Analysis
+### New York Housing Market Analysis
 - Conducted statistical and regression analysis on NYC housing data  
 - Tools: Excel, SPSS  
 - Insight: Identified key drivers of rent variation across boroughs  
 
----
 
-### 🍔 Food Delivery Time Analysis
+### Food Delivery Time Analysis
 - Analyzed factors affecting delivery time using operational dataset  
 - Tools: Python / Excel  
 - Insight: Delivery time influenced by rider characteristics and external conditions  
 
----
 
-### 🗄️ Database Design (PVFC Project)
+### Database Design (PVFC Project)
 - Designed and implemented relational database using MySQL  
 - Created ER diagrams and executed SQL queries  
 - Applied normalization and indexing  
 
----
 
 ## 📫 Contact
 - LinkedIn: www.linkedin.com/in/erica-0192a5341
