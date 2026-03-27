@@ -34,7 +34,14 @@ I am passionate about leveraging data to drive business decisions by combining f
 ### Database Design (PVFC Project)
 - Designed and implemented relational database using MySQL  
 - Created ER diagrams and executed SQL queries  
-- Applied normalization and indexing  
+- Applied normalization and indexing
+
+### Smart Bed Product Development Project  
+- Designed an AI-powered smart bed concept integrating sensor technology and sleep analytics  
+- Conducted market research, feasibility analysis (technical, cost, ROI, risk), and user persona development  
+- Built a 4-level Work Breakdown Structure (WBS) and project timeline to manage product development lifecycle  
+- Proposed AI-driven sleep reporting system to enhance user experience and personalization  
+- Developed cross-functional communication and risk management strategies for engineering, AI, and product teams  
 
 
 ## 📫 Contact
