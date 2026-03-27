@@ -43,7 +43,7 @@ I am passionate about leveraging data to drive business decisions by combining f
 - Proposed AI-driven sleep reporting system to enhance user experience and personalization  
 - Developed cross-functional communication and risk management strategies for engineering, AI, and product teams  
 
-
-## 📫 Contact
+  
+## Contact
 - LinkedIn: www.linkedin.com/in/erica-0192a5341
 - Email: ericashieh0308@gmail.com
