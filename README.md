@@ -22,7 +22,10 @@ I am passionate about leveraging data to drive business decisions by combining f
 ### New York Housing Market Analysis
 - Conducted statistical and regression analysis on NYC housing data  
 - Tools: Excel, SPSS  
-- Insight: Identified key drivers of rent variation across boroughs  
+- Insight: Identified key drivers of rent variation across boroughs
+
+  https://github.com/ericashieh0308-creator/NYC-Housing-Analysis
+
 
 
 ### Food Delivery Time Analysis
@@ -36,12 +39,16 @@ I am passionate about leveraging data to drive business decisions by combining f
 - Created ER diagrams and executed SQL queries  
 - Applied normalization and indexing
 
+  https://github.com/ericashieh0308-creator/SQL-Database-Project-PVFC-
+
 ### Smart Bed Product Development Project  
 - Designed an AI-powered smart bed concept integrating sensor technology and sleep analytics  
 - Conducted market research, feasibility analysis (technical, cost, ROI, risk), and user persona development  
 - Built a 4-level Work Breakdown Structure (WBS) and project timeline to manage product development lifecycle  
 - Proposed AI-driven sleep reporting system to enhance user experience and personalization  
-- Developed cross-functional communication and risk management strategies for engineering, AI, and product teams  
+- Developed cross-functional communication and risk management strategies for engineering, AI, and product teams
+
+  https://github.com/ericashieh0308-creator/Smart-Bed-Product-Strategy
 
   
 ## Contact
