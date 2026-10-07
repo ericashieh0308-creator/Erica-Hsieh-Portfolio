@@ -1,12 +1,18 @@
-# Erica-Hsieh-Portfolio
-Portfolio showcasing data analytics, finance, and business projects by Erica Hsieh
-# Hi, I'm Erica (Ya-Cheng Hsieh)
+# Hi, I'm Erica Hsieh 👋
 
-- MS in Management & Analytics, NYU SPS  
-- Background in Finance & Data Analytics  
-- Based in New York  
+## Management & Analytics | Finance | Business Analytics | AI Product Strategy
 
-I am passionate about leveraging data to drive business decisions by combining financial knowledge with analytical skills. I am currently seeking internship opportunities in data analytics, strategy, and finance.
+I'm a Master's student in **Management & Analytics at NYU**, with prior professional experience in securities investment analysis and a strong interest in applying data, technology, and structured problem-solving to business decisions.
+
+My portfolio brings together projects across **business analytics, predictive modeling, project management, financial analysis, and AI product strategy**. I enjoy turning complex data and business problems into clear insights, practical recommendations, and decision-support tools.
+
+### Areas of Interest
+
+- Business & Data Analytics
+- Financial Analysis & Equity Research
+- Project & Product Management
+- AI Product Strategy
+- Decision Support & Business Intelligence
 
 
 
