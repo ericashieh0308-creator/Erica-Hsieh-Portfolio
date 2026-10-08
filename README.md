@@ -116,14 +116,13 @@ Analyzed differences in New York housing costs using statistical and regression 
 
 🔗 [View Project Repository](https://github.com/ericashieh0308-creator/NYC-Housing-Analysis)
 
-### SQL Database Design — PVFC
+### 🗄️ SQL Database Analytics — Perfect Valley Furniture Company
 
-Designed and implemented a relational database project involving data modeling, SQL queries, normalization, and indexing.
+Designed and analyzed a relational database as part of a team project, covering database modeling, SQL business analysis, advanced queries, and database optimization.
 
-**Tools:** MySQL · Oracle Data Modeler · SQL
+**Key Skills:** SQL · MySQL · Relational Database Design · Multi-Table Joins · Subqueries · RANK · ROLLUP · Indexing · Query Optimization
 
-🔗 [View Project Repository](https://github.com/ericashieh0308-creator/SQL-Database-Project-PVFC-)
-
+[View Project](https://github.com/ericashieh0308-creator/SQL-Database-Analytics-PVFC)
 ---
 
 # 💼 Professional Background
